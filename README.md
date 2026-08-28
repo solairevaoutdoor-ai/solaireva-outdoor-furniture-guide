@@ -213,6 +213,18 @@ If you're sourcing outdoor furniture from China and want a factory that answers 
 
 ---
 
+## Blog — China outdoor furniture sourcing articles
+
+Long-form guides for importers and project buyers. Each post is a standalone page (also reachable via GitHub Pages).
+
+| Date | Post |
+|------|------|
+| 2026-08-28 | [How to Audit a China Outdoor Furniture Factory Before Your First Order](blog/2026-08-28-audit-china-outdoor-furniture-factory.md) |
+
+*New posts added every Saturday alongside the weekly sourcing note.*
+
+---
+
 ## Practical tools (real, usable)
 
 This repo isn't just a guide — it ships working Python tools for buyers. No API keys, no setup, just Python 3:
