@@ -210,6 +210,21 @@ If you're sourcing outdoor furniture from China and want a factory that answers 
 
 ---
 
+## Practical tools (real, usable)
+
+This repo isn't just a guide — it ships working Python tools for buyers. No API keys, no setup, just Python 3:
+
+| Tool | What it does | Quick start |
+|------|-------------|-------------|
+| [`tools/container-calculator.py`](tools/container-calculator.py) | How many cartons fit in a 20GP/40HQ/45HQ? Uses real loadable volumes, not theoretical cubic capacity. | `python3 tools/container-calculator.py --length 120 --width 60 --height 75 --container 40hq` |
+| [`tools/moq-estimator.py`](tools/moq-estimator.py) | Realistic MOQ range for your product type (stock / OEM / ODM) — so you can spot an unfair MOQ. | `python3 tools/moq-estimator.py --product sofa --custom oem` |
+| [`tools/sourcing-checklist.py`](tools/sourcing-checklist.py) | Generates a supplier audit checklist (docs / factory floor / commercial terms). Export to markdown for your team. | `python3 tools/sourcing-checklist.py --format md --out audit.md` |
+| [`tools/shipping-estimator.py`](tools/shipping-estimator.py) | Rough freight range from China to USA / UK / Europe / Australia / UAE / Africa by container. | `python3 tools/shipping-estimator.py --dest usa --container 40hq` |
+
+Each tool prints honest planning ranges and the questions you should ask a supplier — the same ones in the guide. They exist because buyers actually ask us these numbers every week.
+
+---
+
 ## License
 
 MIT — use it, share it, adapt it. This guide exists to make furniture sourcing from China less risky for every buyer.
