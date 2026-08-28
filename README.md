@@ -198,6 +198,9 @@ If you need **custom outdoor furniture** — your own sizes, colors, fabric, fra
 
 ---
 
+## Updates
+- 2026-08-28 — [docs/weekly-notes/week-2026-35.md](docs/weekly-notes/week-2026-35.md)
+
 ## A short note from SOLAIREVA
 
 We're one of the factories in Shunde this guide is about. We make **commercial outdoor furniture** — wholesale patio furniture, hotel furniture, resort furniture — and we run the QC, testing, and mixed-container shipping described above.
