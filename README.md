@@ -219,10 +219,11 @@ This repo isn't just a guide — it ships working Python tools for buyers. No AP
 
 | Tool | What it does | Quick start |
 |------|-------------|-------------|
-| [`tools/container-calculator.py`](tools/container-calculator.py) | How many cartons fit in a 20GP/40HQ/45HQ? Uses real loadable volumes, not theoretical cubic capacity. | `python3 tools/container-calculator.py --length 120 --width 60 --height 75 --container 40hq` |
-| [`tools/moq-estimator.py`](tools/moq-estimator.py) | Realistic MOQ range for your product type (stock / OEM / ODM) — so you can spot an unfair MOQ. | `python3 tools/moq-estimator.py --product sofa --custom oem` |
-| [`tools/sourcing-checklist.py`](tools/sourcing-checklist.py) | Generates a supplier audit checklist (docs / factory floor / commercial terms). Export to markdown for your team. | `python3 tools/sourcing-checklist.py --format md --out audit.md` |
-| [`tools/shipping-estimator.py`](tools/shipping-estimator.py) | Rough freight range from China to USA / UK / Europe / Australia / UAE / Africa by container. | `python3 tools/shipping-estimator.py --dest usa --container 40hq` |
+| [`tools/container-mix-planner.py`](tools/container-mix-planner.py) | !/usr/bin/env python3 | `python3 container-mix-planner.py 120,60,75:30 90,55,45:40 150,60,70:25` |
+| [`tools/container-calculator.py`](tools/container-calculator.py) | How many cartons of outdoor furniture fit in a 20GP/40HQ/45HQ shipping container from China? Uses real loadable volumes, not theoretical cubic capacity. | `python3 tools/container-calculator.py --length 120 --width 60 --height 75 --container 40hq` |
+| [`tools/moq-estimator.py`](tools/moq-estimator.py) | What's a realistic MOQ for wholesale patio furniture from a China factory? Covers stock / OEM / ODM so you can spot an unfair MOQ. | `python3 tools/moq-estimator.py --product sofa --custom oem` |
+| [`tools/sourcing-checklist.py`](tools/sourcing-checklist.py) | Generates a furniture factory audit checklist for buyers sourcing from China — documents, factory floor, commercial terms. Export to markdown. | `python3 tools/sourcing-checklist.py --format md --out audit.md` |
+| [`tools/shipping-estimator.py`](tools/shipping-estimator.py) | Rough cost of shipping furniture from China to USA / UK / Europe / Australia / UAE / Africa by container. | `python3 tools/shipping-estimator.py --dest usa --container 40hq` |
 
 Each tool prints honest planning ranges and the questions you should ask a supplier — the same ones in the guide. They exist because buyers actually ask us these numbers every week.
 
