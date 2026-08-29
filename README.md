@@ -219,6 +219,7 @@ Long-form guides for importers and project buyers. Each post is a standalone pag
 
 | Date | Post |
 |------|------|
+| 2026-08-29 | [What's a Realistic MOQ for Wholesale Patio Furniture from China?](blog/2026-08-29-moq-wholesale-patio-furniture-china) |
 | 2026-08-28 | [What's a Realistic MOQ for Wholesale Patio Furniture from China?](blog/2026-08-28-moq-wholesale-patio-furniture-china) |
 | 2026-08-28 | [How to Audit a China Outdoor Furniture Factory Before Your First Order](blog/2026-08-28-audit-china-outdoor-furniture-factory) |
 
@@ -233,6 +234,7 @@ This repo isn't just a guide — it ships working Python tools for buyers. No AP
 | Tool | What it does | Quick start |
 |------|-------------|-------------|
 | [`tools/container-mix-planner.py`](tools/container-mix-planner.py) | Plan a mixed 40HQ container of outdoor furniture from China — how many of each model to fill it. | `python3 container-mix-planner.py 120,60,75:30 90,55,45:40` |
+| [`tools/cushion-foam-guide.py`](tools/cushion-foam-guide.py) | cushion-foam-guide.py — Pick the right cushion foam density for commercial outdoor furniture | `python3 cushion-foam-guide.py 28` |
 | [`tools/container-calculator.py`](tools/container-calculator.py) | How many cartons of outdoor furniture fit in a 20GP/40HQ/45HQ shipping container from China? Uses real loadable volumes, not theoretical cubic capacity. | `python3 tools/container-calculator.py --length 120 --width 60 --height 75 --container 40hq` |
 | [`tools/moq-estimator.py`](tools/moq-estimator.py) | What's a realistic MOQ for wholesale patio furniture from a China factory? Covers stock / OEM / ODM so you can spot an unfair MOQ. | `python3 tools/moq-estimator.py --product sofa --custom oem` |
 | [`tools/sourcing-checklist.py`](tools/sourcing-checklist.py) | Generates a furniture factory audit checklist for buyers sourcing from China — documents, factory floor, commercial terms. Export to markdown. | `python3 tools/sourcing-checklist.py --format md --out audit.md` |
