@@ -219,7 +219,6 @@ Long-form guides for importers and project buyers. Each post is a standalone pag
 
 | Date | Post |
 |------|------|
-| 2026-08-29 | [What's a Realistic MOQ for Wholesale Patio Furniture from China?](blog/2026-08-29-moq-wholesale-patio-furniture-china) |
 | 2026-08-28 | [What's a Realistic MOQ for Wholesale Patio Furniture from China?](blog/2026-08-28-moq-wholesale-patio-furniture-china) |
 | 2026-08-28 | [How to Audit a China Outdoor Furniture Factory Before Your First Order](blog/2026-08-28-audit-china-outdoor-furniture-factory) |
 
