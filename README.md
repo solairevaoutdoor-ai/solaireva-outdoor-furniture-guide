@@ -200,6 +200,7 @@ If you need **custom outdoor furniture** — your own sizes, colors, fabric, fra
 
 ## Updates
 - 2026-09-07 — [docs/weekly-notes/week-2026-37.md](docs/weekly-notes/week-2026-37.md)
+- 2026-09-05 — [docs/weekly-notes/week-2026-36.md](docs/weekly-notes/week-2026-36.md)
 - 2026-08-28 — [docs/weekly-notes/week-2026-35.md](docs/weekly-notes/week-2026-35.md)
 
 ## A short note from SOLAIREVA
