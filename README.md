@@ -199,6 +199,7 @@ If you need **custom outdoor furniture** — your own sizes, colors, fabric, fra
 ---
 
 ## Updates
+- 2026-09-19 — [docs/weekly-notes/week-2026-38.md](docs/weekly-notes/week-2026-38.md)
 - 2026-09-07 — [docs/weekly-notes/week-2026-37.md](docs/weekly-notes/week-2026-37.md)
 - 2026-09-05 — [docs/weekly-notes/week-2026-36.md](docs/weekly-notes/week-2026-36.md)
 - 2026-08-28 — [docs/weekly-notes/week-2026-35.md](docs/weekly-notes/week-2026-35.md)
@@ -221,6 +222,7 @@ Long-form guides for importers and project buyers. Each post is a standalone pag
 
 | Date | Post |
 |------|------|
+| 2026-09-19 | [OEM vs ODM for Custom Outdoor Furniture: What Importers Need to Know](blog/2026-09-19-oem-odm-custom-outdoor-furniture) |
 | 2026-09-12 | [PE Rattan vs Natural Wicker: Which Lasts Longer Outdoors?](blog/2026-09-12-pe-rattan-vs-wicker-outdoor-furniture) |
 | 2026-09-07 | [Import Duty on Furniture from China: USA, UK, EU and Australia](blog/2026-09-07-import-duty-furniture-china-usa-uk) |
 | 2026-08-28 | [What's a Realistic MOQ for Wholesale Patio Furniture from China?](blog/2026-08-28-moq-wholesale-patio-furniture-china) |
