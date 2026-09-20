@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solairevaoutdoor-ai.github.io/solaireva-outdoor-furniture-guide/sitemap.xml

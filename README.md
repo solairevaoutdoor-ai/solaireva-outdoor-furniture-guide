@@ -210,7 +210,7 @@ We're one of the factories in Shunde this guide is about. We make **commercial o
 
 If you're sourcing outdoor furniture from China and want a factory that answers these questions straight (including the parts that don't favor us), start here:
 
-**Website: www.solaireva.com**
+**Website: [SOLAIREVA](https://www.solaireva.com)**
 
 *Aluminum and PE rattan outdoor furniture. 16,000 m² factory in Shunde. 4-stage QC, 0.47% defect rate, 5-year fade resistant rattan. OEM/ODM, wholesale, and project customization. Shipping to the USA, UK, Australia, UAE, Kenya, South Africa and beyond.*
 
