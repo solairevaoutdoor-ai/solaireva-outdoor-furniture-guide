@@ -199,6 +199,7 @@ If you need **custom outdoor furniture** — your own sizes, colors, fabric, fra
 ---
 
 ## Updates
+- 2026-11-07 — [docs/weekly-notes/week-2026-45.md](docs/weekly-notes/week-2026-45.md)
 - 2026-10-31 — [docs/weekly-notes/week-2026-44.md](docs/weekly-notes/week-2026-44.md)
 - 2026-10-24 — [docs/weekly-notes/week-2026-43.md](docs/weekly-notes/week-2026-43.md)
 - 2026-10-17 — [docs/weekly-notes/week-2026-42.md](docs/weekly-notes/week-2026-42.md)
@@ -228,6 +229,7 @@ Long-form guides for importers and project buyers. Each post is a standalone pag
 
 | Date | Post |
 |------|------|
+| 2026-11-07 | [Furniture Factory Shunde: Why the Cluster Decides Your Order](blog/2026-11-07-furniture-factory-shunde-cluster) |
 | 2026-10-31 | [How to Check Quality of Furniture from China Before It Ships](blog/2026-10-31-how-to-check-quality-of-furniture-from-china) |
 | 2026-10-24 | [Outdoor Furniture Quality Control: The Four Stages That Matter](blog/2026-10-24-outdoor-furniture-quality-control) |
 | 2026-10-17 | [Restaurant Furniture Supplier China: Specifying for Daily Service](blog/2026-10-17-restaurant-furniture-supplier-china-service) |
