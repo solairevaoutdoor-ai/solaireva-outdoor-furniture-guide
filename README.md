@@ -199,6 +199,7 @@ If you need **custom outdoor furniture** — your own sizes, colors, fabric, fra
 ---
 
 ## Updates
+- 2026-11-21 — [docs/weekly-notes/week-2026-47.md](docs/weekly-notes/week-2026-47.md)
 - 2026-11-15 — [docs/weekly-notes/week-2026-46.md](docs/weekly-notes/week-2026-46.md)
 - 2026-11-07 — [docs/weekly-notes/week-2026-45.md](docs/weekly-notes/week-2026-45.md)
 - 2026-10-31 — [docs/weekly-notes/week-2026-44.md](docs/weekly-notes/week-2026-44.md)
@@ -230,6 +231,7 @@ Long-form guides for importers and project buyers. Each post is a standalone pag
 
 | Date | Post |
 |------|------|
+| 2026-11-21 | [Teak Outdoor Furniture Wholesale: Grades, Cost and What to Specify](blog/2026-11-21-teak-outdoor-furniture-wholesale-grades) |
 | 2026-11-15 | [Hotel Furniture Supplier China: What to Verify Before You Commit](blog/2026-11-15-hotel-furniture-supplier-china-verification) |
 | 2026-11-07 | [Furniture Factory Shunde: Why the Cluster Decides Your Order](blog/2026-11-07-furniture-factory-shunde-cluster) |
 | 2026-10-31 | [How to Check Quality of Furniture from China Before It Ships](blog/2026-10-31-how-to-check-quality-of-furniture-from-china) |
